@@ -57,5 +57,5 @@ Luego abre tu navegador en: http://127.0.0.1:8050
 
 👤 Autor
 José Jose Alejandro Rubio
-Proyecto desarrollado para prueba técnica de Alegra.
+Proyecto desarrollado para prueba técnica.
 Contacto: alejandro.rub.men@gmail.com
