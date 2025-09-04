@@ -15,7 +15,7 @@ Este proyecto fue desarrollado como parte del proceso de prueba técnica para Al
 
 ## 📁 Estructura del proyecto
 
-📦 proyecto_alegra/
+📦 proyecto/
 ├── marketing_dashboard.py # Aplicación Dash
 ├── direct-marketing-campaigns.csv # Dataset base
 ├── README.md # Este archivo
